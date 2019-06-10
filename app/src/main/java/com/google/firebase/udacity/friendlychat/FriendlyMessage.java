@@ -13,6 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+/**
+ * Assignment Completed by Jason Arendt 6-10-19
+ **/
+
 package com.google.firebase.udacity.friendlychat;
 
 public class FriendlyMessage {
