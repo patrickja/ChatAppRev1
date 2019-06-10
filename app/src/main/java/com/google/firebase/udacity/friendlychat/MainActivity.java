@@ -13,6 +13,12 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+/**
+ * Assignment Completed by Jason Arendt 6/10/2019
+ **/
+
+
 package com.google.firebase.udacity.friendlychat;
 
 import android.content.Intent;
